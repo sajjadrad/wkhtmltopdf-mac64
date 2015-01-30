@@ -1,0 +1,19 @@
+{
+    "name": "sajjadrad/wkhtmltopdf-mac64",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for mac systems.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary","mac"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Sajjad Rad",
+            "email": "sajjad.273@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-mac64"
+    ],
+    "require": {
+    }
+}
